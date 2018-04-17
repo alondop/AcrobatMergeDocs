@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcrobatMergeDocs", "AcrobatMergeDocs\AcrobatMergeDocs.csproj", "{5A8817EC-4790-4993-B47F-93AA873FCFB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A8817EC-4790-4993-B47F-93AA873FCFB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A8817EC-4790-4993-B47F-93AA873FCFB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13A27A1B-B3C7-4BB3-A917-5E6DD086EB39}
+	EndGlobalSection
+EndGlobal

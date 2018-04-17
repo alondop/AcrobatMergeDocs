@@ -1,0 +1,13 @@
+C:\Users\22758\Documents\Visual Studio 2017\Projects\AcrobatMergeDocs\AcrobatMergeDocs\bin\Debug\BasicIacCS.exe
+C:\Users\22758\Documents\Visual Studio 2017\Projects\AcrobatMergeDocs\AcrobatMergeDocs\bin\Debug\BasicIacCS.pdb
+C:\Users\22758\Documents\Visual Studio 2017\Projects\AcrobatMergeDocs\AcrobatMergeDocs\bin\Debug\Interop.AdobePDFMakerX.dll
+C:\Users\22758\Documents\Visual Studio 2017\Projects\AcrobatMergeDocs\AcrobatMergeDocs\bin\Debug\Interop.Acrobat.dll
+C:\Users\22758\Documents\Visual Studio 2017\Projects\AcrobatMergeDocs\AcrobatMergeDocs\obj\Debug\AcrobatMergeDocs.csprojResolveAssemblyReference.cache
+C:\Users\22758\Documents\Visual Studio 2017\Projects\AcrobatMergeDocs\AcrobatMergeDocs\obj\Debug\Interop.AdobePDFMakerX.dll
+C:\Users\22758\Documents\Visual Studio 2017\Projects\AcrobatMergeDocs\AcrobatMergeDocs\obj\Debug\Interop.Acrobat.dll
+C:\Users\22758\Documents\Visual Studio 2017\Projects\AcrobatMergeDocs\AcrobatMergeDocs\obj\Debug\AcrobatMergeDocs.csproj.ResolveComReference.cache
+C:\Users\22758\Documents\Visual Studio 2017\Projects\AcrobatMergeDocs\AcrobatMergeDocs\obj\Debug\AcrobatMergeDocs.csproj.GenerateResource.cache
+C:\Users\22758\Documents\Visual Studio 2017\Projects\AcrobatMergeDocs\AcrobatMergeDocs\obj\Debug\AcrobatMergeDocs.csproj.CoreCompileInputs.cache
+C:\Users\22758\Documents\Visual Studio 2017\Projects\AcrobatMergeDocs\AcrobatMergeDocs\obj\Debug\BasicIacCS.exe
+C:\Users\22758\Documents\Visual Studio 2017\Projects\AcrobatMergeDocs\AcrobatMergeDocs\obj\Debug\BasicIacCS.pdb
+C:\Users\22758\Documents\Visual Studio 2017\Projects\AcrobatMergeDocs\AcrobatMergeDocs\obj\Debug\AcrobatMergeDocs.AcrobatMergeDocs.resources
